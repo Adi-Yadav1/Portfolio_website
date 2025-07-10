@@ -4,7 +4,7 @@ import Aditya from '../../assets/Aditya.jpg'
 
 const About = () => {
   return (
-    <div className='About'>
+    <div className='about'>
         <div className="abouttitle">
             <h1>About Me</h1>
             <img src="" alt="" />
@@ -36,6 +36,11 @@ const About = () => {
         </div>
         <div className="aboutachievements">
             <div className="aboutachivement">
+                <h1>AI IN FINANACE </h1>
+                <p>HACKATHON WINNER</p>
+            </div>
+            <hr />
+             <div className="aboutachivement">
                 <h1>AI IN FINANACE </h1>
                 <p>HACKATHON WINNER</p>
             </div>
